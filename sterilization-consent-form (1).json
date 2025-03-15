@@ -1,0 +1,30 @@
+{
+  "Sterilization Consent": {
+    "Doctor/Clinic Name": "RAY",
+    "procedure_type": "dede",
+    "date_of_birth": "2025-03-06",
+    "patient_name": "raymond",
+    "patient_signature": "raymond",
+    "Race / Ethnic Origin": "fwqfqqa"
+  },
+  "Statement of Person Obtaining Consent": {
+    "Full Name": "raymond",
+    "Specific Type of Operation": "dede",
+    "Signature": "raymond",
+    "Date of Birth": "2025-03-06",
+    "consent_date": "2025-03-06"
+  },
+  "Physician Statement": {
+    "physician_name": "raymond",
+    "procedure_date": "2025-03-07",
+    "Specific Type of Operation": "dede",
+    "Consent Date": "2025-03-06",
+    "30-Day Waiting Period Not Met": false,
+    "Circumstances": "",
+    "30-Day Waiting Period Met": true,
+    "Expected Date of Delivery": "2025-03-07",
+    "Emergency Description": "yo yo ",
+    "physician_signature": "raymond",
+    "Signature Date": "2025-03-12"
+  }
+}
