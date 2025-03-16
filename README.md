@@ -42,6 +42,7 @@ Click on the "Choose File" button to upload a JSON file.
 
 The uploaded file should contain an array of objects with the following structure:
 
+```
 [
   {
     "id": 1,
@@ -54,11 +55,11 @@ The uploaded file should contain an array of objects with the following structur
     "probability": 0.72
   }
 ]
-
+```
 The table updates to display the errors and their probability of causing rejection.
 
 Click the "Clear" button to remove data from the table and local storage.
-
+```
 Project Structure
 
 complitracker/
@@ -66,7 +67,7 @@ complitracker/
 │── script.js         # JavaScript for file handling and UI updates
 │── styles.css        # Optional additional styles
 └── README.md         # Project documentation
-
+```
 Future Enhancements
 
 Implement form validation before uploading JSON files.
