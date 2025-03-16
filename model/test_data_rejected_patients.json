@@ -1,0 +1,93 @@
+[
+    {
+        "SpecifyTypeOfOperation":"Salpingectomy",
+        "RecipientSignature":1,
+        "RaceAndEthnicDesignation":"White",
+        "InterpreterSignature":0,
+        "DateOfRecipientSignature":"04\/17\/2023",
+        "RejectionProbability":0.2688897214,
+        "AcceptanceProbability":0.7311102786,
+        "PredictedOutcome":"Rejected",
+        "RejectionRiskScore":26.9,
+        "AcceptanceRiskScore":73.1,
+        "Interpretation":"Low risk of rejection: Likely to be accepted but has some minor compliance concerns"
+    },
+    {
+        "SpecifyTypeOfOperation":"Bilateral Tubal Ligation",
+        "RecipientSignature":1,
+        "RaceAndEthnicDesignation":"White",
+        "InterpreterSignature":0,
+        "DateOfRecipientSignature":"06\/14\/2023",
+        "RejectionProbability":0.2022908701,
+        "AcceptanceProbability":0.7977091299,
+        "PredictedOutcome":"Rejected",
+        "RejectionRiskScore":20.2,
+        "AcceptanceRiskScore":79.8,
+        "Interpretation":"Very low risk of rejection: Highly likely to be accepted with strong compliance indicators"
+    },
+    {
+        "SpecifyTypeOfOperation":"Salpingectomy",
+        "RecipientSignature":1,
+        "RaceAndEthnicDesignation":"Hispanic",
+        "InterpreterSignature":1,
+        "DateOfRecipientSignature":"08\/11\/2023",
+        "RejectionProbability":0.2162261905,
+        "AcceptanceProbability":0.7837738095,
+        "PredictedOutcome":"Rejected",
+        "RejectionRiskScore":21.6,
+        "AcceptanceRiskScore":78.4,
+        "Interpretation":"Very low risk of rejection: Highly likely to be accepted with strong compliance indicators"
+    },
+    {
+        "SpecifyTypeOfOperation":"Bilateral Tubal Ligation",
+        "RecipientSignature":1,
+        "RaceAndEthnicDesignation":"White",
+        "InterpreterSignature":0,
+        "DateOfRecipientSignature":"09\/03\/2023",
+        "RejectionProbability":0.3746490454,
+        "AcceptanceProbability":0.6253509546,
+        "PredictedOutcome":"Rejected",
+        "RejectionRiskScore":37.5,
+        "AcceptanceRiskScore":62.5,
+        "Interpretation":"Low risk of rejection: Likely to be accepted but has some minor compliance concerns"
+    },
+    {
+        "SpecifyTypeOfOperation":"Vasectomy",
+        "RecipientSignature":1,
+        "RaceAndEthnicDesignation":"Black",
+        "InterpreterSignature":0,
+        "DateOfRecipientSignature":"09\/27\/2023",
+        "RejectionProbability":0.1794959385,
+        "AcceptanceProbability":0.8205040615,
+        "PredictedOutcome":"Rejected",
+        "RejectionRiskScore":17.9,
+        "AcceptanceRiskScore":82.1,
+        "Interpretation":"Very low risk of rejection: Highly likely to be accepted with strong compliance indicators"
+    },
+    {
+        "SpecifyTypeOfOperation":"Bilateral Tubal Ligation",
+        "RecipientSignature":1,
+        "RaceAndEthnicDesignation":"Hispanic",
+        "InterpreterSignature":1,
+        "DateOfRecipientSignature":"11\/02\/2023",
+        "RejectionProbability":0.6981111111,
+        "AcceptanceProbability":0.3018888889,
+        "PredictedOutcome":"Rejected",
+        "RejectionRiskScore":69.8,
+        "AcceptanceRiskScore":30.2,
+        "Interpretation":"Moderate risk of rejection: May be rejected due to potential non-compliance issues"
+    },
+    {
+        "SpecifyTypeOfOperation":"Tubal Occlusion",
+        "RecipientSignature":1,
+        "RaceAndEthnicDesignation":"Asian",
+        "InterpreterSignature":1,
+        "DateOfRecipientSignature":"11\/30\/2023",
+        "RejectionProbability":0.2519761905,
+        "AcceptanceProbability":0.7480238095,
+        "PredictedOutcome":"Rejected",
+        "RejectionRiskScore":25.2,
+        "AcceptanceRiskScore":74.8,
+        "Interpretation":"Low risk of rejection: Likely to be accepted but has some minor compliance concerns"
+    }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "SpecifyTypeOfOperation": "Bilateral Tubal Ligation",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "Hispanic",
+    "InterpreterSignature": 1,
+    "DateOfRecipientSignature": "01/15/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Vasectomy",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "White",
+    "InterpreterSignature": 0,
+    "DateOfRecipientSignature": "02/22/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Tubal Occlusion",
+    "RecipientSignature": 0,
+    "RaceAndEthnicDesignation": "Black",
+    "InterpreterSignature": 0,
+    "DateOfRecipientSignature": "03/10/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Bilateral Tubal Ligation",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "Asian",
+    "InterpreterSignature": 1,
+    "DateOfRecipientSignature": "03/28/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Salpingectomy",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "White",
+    "InterpreterSignature": 0,
+    "DateOfRecipientSignature": "04/17/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Essure Procedure",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "Hispanic",
+    "InterpreterSignature": 1,
+    "DateOfRecipientSignature": "05/02/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Vasectomy",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "Black",
+    "InterpreterSignature": 0,
+    "DateOfRecipientSignature": "05/23/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Bilateral Tubal Ligation",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "White",
+    "InterpreterSignature": 0,
+    "DateOfRecipientSignature": "06/14/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Tubal Occlusion",
+    "RecipientSignature": 0,
+    "RaceAndEthnicDesignation": "Asian",
+    "InterpreterSignature": 1,
+    "DateOfRecipientSignature": "07/05/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Salpingectomy",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "Hispanic",
+    "InterpreterSignature": 1,
+    "DateOfRecipientSignature": "08/11/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Bilateral Tubal Ligation",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "White",
+    "InterpreterSignature": 0,
+    "DateOfRecipientSignature": "09/03/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Vasectomy",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "Black",
+    "InterpreterSignature": 0,
+    "DateOfRecipientSignature": "09/27/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Essure Procedure",
+    "RecipientSignature": 0,
+    "RaceAndEthnicDesignation": "White",
+    "InterpreterSignature": 0,
+    "DateOfRecipientSignature": "10/14/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Bilateral Tubal Ligation",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "Hispanic",
+    "InterpreterSignature": 1,
+    "DateOfRecipientSignature": "11/02/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Tubal Occlusion",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "Asian",
+    "InterpreterSignature": 1,
+    "DateOfRecipientSignature": "11/30/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Vasectomy",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "White",
+    "InterpreterSignature": 0,
+    "DateOfRecipientSignature": "12/18/2023"
+  },
+  {
+    "SpecifyTypeOfOperation": "Salpingectomy",
+    "RecipientSignature": 0,
+    "RaceAndEthnicDesignation": "Black",
+    "InterpreterSignature": 0,
+    "DateOfRecipientSignature": "01/09/2024"
+  },
+  {
+    "SpecifyTypeOfOperation": "Bilateral Tubal Ligation",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "White",
+    "InterpreterSignature": 0,
+    "DateOfRecipientSignature": "01/25/2024"
+  },
+  {
+    "SpecifyTypeOfOperation": "Essure Procedure",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "Hispanic",
+    "InterpreterSignature": 1,
+    "DateOfRecipientSignature": "02/12/2024"
+  },
+  {
+    "SpecifyTypeOfOperation": "Tubal Occlusion",
+    "RecipientSignature": 1,
+    "RaceAndEthnicDesignation": "Asian",
+    "InterpreterSignature": 1,
+    "DateOfRecipientSignature": "03/01/2024"
+  }
+]
