@@ -77,15 +77,15 @@ Add backend integration for database storage.
 
 Contributors
 
-Sayan
+Sayan Pelrecha
 
-Hitu
+Hetu Chauhan
 
-Pragalv
+Pragalv Bhattarai
 
-Terrell
+Terrell Davis
 
-Raymond
+Raymond Quan
 
 License
 
